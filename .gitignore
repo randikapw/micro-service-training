@@ -2,4 +2,5 @@
 /currency-exchange-service/
 /limits-service/
 /netflix-eureka-naming-server/
+/netflix-zuul-api-gateway-server/
 /spring-cloud-config-server/
